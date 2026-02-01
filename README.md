@@ -22,7 +22,7 @@
 
 ## 📥 Установка
 
-1.  **Зависимости:** Убедитесь, что у вас установлен модуль [SimplePath](https://github.com/V3N0M-Z/SimplePath) (поместите его в `ReplicatedStorage`).
+1.  **Зависимости:** Убедитесь, что у вас установлен модуль [SimplePath](https://github.com/grayzcale/simplepath) (поместите его в `ReplicatedStorage`).
 2.  **Модуль:** Создайте `ModuleScript` с именем `ClimbSystem` в `ReplicatedStorage` и вставьте в него код ядра.
 3.  **NPC:** Вам понадобится модель NPC с `Humanoid` и `HumanoidRootPart`.
 
