@@ -1,4 +1,4 @@
-Local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CollectionService = game:GetService("CollectionService")
 local RunService = game:GetService("RunService")
 
@@ -369,4 +369,5 @@ function Climbing.Start(npc, _, target)
 end
 
 return Climbing
+
 
